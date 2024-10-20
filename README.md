@@ -35,7 +35,10 @@ Consolidate a toolkit of essential resources for front-end developers.
 ## API
  - [reqres](https://reqres.in/)
 
-
+## Design
+- [Checklist Design](https://www.checklist.design/)
+- [404_spells](https://www.designspells.com/?tag=404)
+- [whimsical](https://whimsical.com/) 
 
 
 
