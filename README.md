@@ -31,3 +31,18 @@ Consolidate a toolkit of essential resources for front-end developers.
 ## Chart
 - [APEXCHARTS.JS](https://apexcharts.com/)
 - [shadcn/ui_Beautiful Charts](https://ui.shadcn.com/charts)
+
+## API
+ - [reqres](https://reqres.in/)
+
+
+
+
+
+
+
+
+
+
+
+
