@@ -7,6 +7,8 @@ Consolidate a toolkit of essential resources for front-end developers.
 ## Icon
 - [W3Schools](https://www.w3schools.com/icons/default.asp)
 - [Boxicons](https://boxicons.com/?query=)
+- [Google_Icon](https://fonts.google.com/icons?hl=zh-tw&selected=Material+Symbols+Outlined:inventory_2:FILL@0;wght@400;GRAD@0;opsz@24&icon.size=24&icon.color=%235f6368)
+- [Colored Icons](https://colored-icons.vercel.app/)
   
 ## Page scrolling animation
 - [Paroller.js](https://tgomilar.github.io/paroller.js/)
