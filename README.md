@@ -13,3 +13,14 @@ Consolidate a toolkit of essential resources for front-end developers.
 - [Jarallax](https://jarallax.nkdev.info/)
 - [RellaxJS](https://dixonandmoe.com/rellax/)
 - [MultiScroll](https://alvarotrigo.com/multiScroll/)
+
+## CSS
+- Loaders
+  - [LDRS](https://uiball.com/ldrs/)
+- CSS Scan
+  - [box-shadow examples](https://getcssscan.com/css-box-shadow-examples)
+  - [buttons examples](https://getcssscan.com/css-buttons-examples?ref=beautifulboxshadow-bottom)
+  - [checkboxes examples](https://getcssscan.com/css-checkboxes-examples?ref=beautifulbuttons-bottom)
+  - [radios examples](https://getcssscan.com/css-radios-examples?ref=beautifulcheckboxes-bottom)
+- CSS Pro
+  - [CSS 3D Buttons](https://csspro.com/css-3d-buttons?ref=beautifulradios-bottom)
