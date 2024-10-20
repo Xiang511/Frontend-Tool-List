@@ -26,3 +26,7 @@ Consolidate a toolkit of essential resources for front-end developers.
   - [radios examples](https://getcssscan.com/css-radios-examples?ref=beautifulcheckboxes-bottom)
 - CSS Pro
   - [CSS 3D Buttons](https://csspro.com/css-3d-buttons?ref=beautifulradios-bottom)
+
+## Chart
+- [APEXCHARTS.JS](https://apexcharts.com/)
+- [shadcn/ui_Beautiful Charts](https://ui.shadcn.com/charts)
