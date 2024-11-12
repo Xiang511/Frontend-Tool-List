@@ -9,6 +9,7 @@ Consolidate a toolkit of essential resources for front-end developers.
 - [Boxicons](https://boxicons.com/?query=)
 - [Google_Icon](https://fonts.google.com/icons?hl=zh-tw&selected=Material+Symbols+Outlined:inventory_2:FILL@0;wght@400;GRAD@0;opsz@24&icon.size=24&icon.color=%235f6368)
 - [Colored Icons](https://colored-icons.vercel.app/)
+- [beautifully crafted animated icons](https://icons.pqoqubbw.dev/)
   
 ## Page scrolling animation
 - [Paroller.js](https://tgomilar.github.io/paroller.js/)
@@ -38,7 +39,7 @@ Consolidate a toolkit of essential resources for front-end developers.
 ## Design
 - [Checklist Design](https://www.checklist.design/)
 - [404_spells](https://www.designspells.com/?tag=404)
-- [whimsical](https://whimsical.com/) 
+- [whimsical](https://whimsical.com/)
 
 
 
