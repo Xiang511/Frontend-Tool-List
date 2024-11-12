@@ -41,7 +41,9 @@ Consolidate a toolkit of essential resources for front-end developers.
 - [404_spells](https://www.designspells.com/?tag=404)
 - [whimsical](https://whimsical.com/)
 
-
+## SEO
+- [Keyword difficulty check](https://ahrefs.com/zh/keyword-difficulty)
+- [PageSpeed Insights](https://pagespeed.web.dev/)
 
 
 
