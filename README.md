@@ -17,6 +17,7 @@ Consolidate a toolkit of essential resources for front-end developers.
 - [RellaxJS](https://dixonandmoe.com/rellax/)
 - [MultiScroll](https://alvarotrigo.com/multiScroll/)
 - [Barba.js](https://barba.js.org/)
+- [Scrollrevealjs](https://scrollrevealjs.org/)
 
 ## CSS
 - Loaders
