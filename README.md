@@ -46,7 +46,8 @@ Consolidate a toolkit of essential resources for front-end developers.
 - [Keyword difficulty check](https://ahrefs.com/zh/keyword-difficulty)
 - [PageSpeed Insights](https://pagespeed.web.dev/)
 
-
+## AI
+- [Galileo.ai](https://www.usegalileo.ai/explore/features/web)
 
 
 
