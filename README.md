@@ -44,6 +44,7 @@ Consolidate a toolkit of essential resources for front-end developers.
 
 ## Img assets
 - [unDraw](https://undraw.co/illustrations)
+- [pexels](https://www.pexels.com/zh-tw/)
 
 
 ## SEO
