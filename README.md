@@ -18,6 +18,7 @@ Consolidate a toolkit of essential resources for front-end developers.
 - [MultiScroll](https://alvarotrigo.com/multiScroll/)
 - [Barba.js](https://barba.js.org/)
 - [Scrollrevealjs](https://scrollrevealjs.org/)
+- [number-flow](https://number-flow.barvian.me/vue)
 
 ## CSS
 - Loaders
