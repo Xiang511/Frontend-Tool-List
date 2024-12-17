@@ -21,6 +21,8 @@ Consolidate a toolkit of essential resources for front-end developers.
 - [number-flow](https://number-flow.barvian.me/vue)
 
 ## CSS
+- Video
+  - [player.style](https://player.style/)
 - Wave
   - [Make some waves](https://getwaves.io/)
 - Popover
