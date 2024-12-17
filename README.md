@@ -21,6 +21,10 @@ Consolidate a toolkit of essential resources for front-end developers.
 - [number-flow](https://number-flow.barvian.me/vue)
 
 ## CSS
+- Wave
+  - [Make some waves](https://getwaves.io/)
+- Popover
+  - [CSS3 居然內建 Popover ](https://uneven-tarantula-5e0.notion.site/CSS3-Popover-JavaScript-15848a1740bf80c29fcdf88931be9e95)
 - Loaders
   - [LDRS](https://uiball.com/ldrs/)
 - CSS Scan
@@ -30,7 +34,7 @@ Consolidate a toolkit of essential resources for front-end developers.
   - [radios examples](https://getcssscan.com/css-radios-examples?ref=beautifulcheckboxes-bottom)
 - CSS Pro
   - [CSS 3D Buttons](https://csspro.com/css-3d-buttons?ref=beautifulradios-bottom)
-- [Make some waves](https://getwaves.io/)
+
 ## Chart
 - [APEXCHARTS.JS](https://apexcharts.com/)
 - [shadcn/ui_Beautiful Charts](https://ui.shadcn.com/charts)
