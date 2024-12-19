@@ -54,6 +54,10 @@ Consolidate a toolkit of essential resources for front-end developers.
 - [pexels](https://www.pexels.com/zh-tw/)
 - [illlustrations.co](https://illlustrations.co/)
 
+## Img adjustment
+ - [調整圖片尺寸](https://www.peko-step.com/zhtw/tool/resize.html)
+ - [圖片去除背景](https://www.stickermule.com/trace)
+ - [PhotoshopOnline](https://www.photopea.com/)
 
 ## SEO
 - [Keyword difficulty check](https://ahrefs.com/zh/keyword-difficulty)
