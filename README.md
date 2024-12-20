@@ -40,6 +40,7 @@ Consolidate a toolkit of essential resources for front-end developers.
 ## Chart
 - [APEXCHARTS.JS](https://apexcharts.com/)
 - [shadcn/ui_Beautiful Charts](https://ui.shadcn.com/charts)
+- [echarts](https://echarts.apache.org/examples/zh/index.html#chart-type-line)
 
 ## API
  - [reqres](https://reqres.in/)
