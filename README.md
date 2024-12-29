@@ -60,6 +60,14 @@ Consolidate a toolkit of essential resources for front-end developers.
  - [圖片去除背景](https://www.stickermule.com/trace)
  - [PhotoshopOnline](https://www.photopea.com/)
 
+## UI/UX
+- [seesaw](https://www.seesaw.website/)
+
+## Browser support query
+- [web.dev](https://web.dev/baseline?hl=zh-tw)
+- [Can I use](https://caniuse.com/)
+
+
 ## SEO
 - [Keyword difficulty check](https://ahrefs.com/zh/keyword-difficulty)
 - [PageSpeed Insights](https://pagespeed.web.dev/)
@@ -67,11 +75,6 @@ Consolidate a toolkit of essential resources for front-end developers.
 ## AI
 - [Galileo.ai](https://www.usegalileo.ai/explore/features/web)
 
-## UI/UX
-- [seesaw](https://www.seesaw.website/)
-
-## Browser support query
-- [web.dev](https://web.dev/baseline?hl=zh-tw)
 
 
 
