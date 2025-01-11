@@ -10,6 +10,7 @@ Consolidate a toolkit of essential resources for front-end developers.
 - [Colored Icons](https://colored-icons.vercel.app/)
 - [beautifully crafted animated icons](https://icons.pqoqubbw.dev/)
 - [svgrepo](https://www.svgrepo.com/)
+- [skillicons](https://skillicons.dev/)
   
 ## Page scrolling animation
 - [Paroller.js](https://tgomilar.github.io/paroller.js/)
