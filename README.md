@@ -50,6 +50,7 @@ Consolidate a toolkit of essential resources for front-end developers.
 - [Checklist Design](https://www.checklist.design/)
 - [404_spells](https://www.designspells.com/?tag=404)
 - [whimsical](https://whimsical.com/)
+- [lottielab](https://www.lottielab.com/)
 
 ## Img assets
 - [unDraw](https://undraw.co/illustrations)
