@@ -51,6 +51,7 @@ Consolidate a toolkit of essential resources for front-end developers.
 - [404_spells](https://www.designspells.com/?tag=404)
 - [whimsical](https://whimsical.com/)
 - [lottielab](https://www.lottielab.com/)
+- [footer.design](http://footer.design/)
 
 ## Img assets
 - [unDraw](https://undraw.co/illustrations)
