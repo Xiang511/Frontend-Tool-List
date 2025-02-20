@@ -21,6 +21,9 @@ Consolidate a toolkit of essential resources for front-end developers.
 - [Scrollrevealjs](https://scrollrevealjs.org/)
 - [number-flow](https://number-flow.barvian.me/vue)
 
+## HTML 
+- [every-html-element](https://iamwillwang.com/every-html-element/)
+
 ## CSS
 - Video
   - [player.style](https://player.style/)
