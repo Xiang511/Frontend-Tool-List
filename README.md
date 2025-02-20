@@ -3,6 +3,11 @@
 
 Consolidate a toolkit of essential resources for front-end developers.
 
+## Docs
+- CodeReview
+  - [codesmell](https://luzkan.github.io/smells/)
+
+
 ## Icon
 - [W3Schools](https://www.w3schools.com/icons/default.asp)
 - [Boxicons](https://boxicons.com/?query=)
