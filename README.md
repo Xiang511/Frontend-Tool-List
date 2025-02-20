@@ -11,6 +11,7 @@ Consolidate a toolkit of essential resources for front-end developers.
 - [beautifully crafted animated icons](https://icons.pqoqubbw.dev/)
 - [svgrepo](https://www.svgrepo.com/)
 - [skillicons](https://skillicons.dev/)
+- [svgl](https://svgl.app/)
   
 ## Page scrolling animation
 - [Paroller.js](https://tgomilar.github.io/paroller.js/)
