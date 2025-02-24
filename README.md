@@ -52,6 +52,10 @@ Consolidate a toolkit of essential resources for front-end developers.
 - [shadcn/ui_Beautiful Charts](https://ui.shadcn.com/charts)
 - [echarts](https://echarts.apache.org/examples/zh/index.html#chart-type-line)
 
+## Components
+- [Neobrutalism components](https://www.neobrutalism.dev/)
+- [ui.shadcn.com](https://ui.shadcn.com/docs/components/)
+
 ## API
  - [reqres](https://reqres.in/)
 
