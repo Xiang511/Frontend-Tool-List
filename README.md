@@ -6,7 +6,8 @@ Consolidate a toolkit of essential resources for front-end developers.
 ## Docs
 - CodeReview
   - [codesmell](https://luzkan.github.io/smells/)
-
+- WebDong
+  - [使用 preload、prefetch、dns-prefetch、preconnect 最佳化資源載入順序！](https://www.webdong.dev/post/optimizing-assets-loading-in-advance/)
 
 ## Icon
 - [W3Schools](https://www.w3schools.com/icons/default.asp)
