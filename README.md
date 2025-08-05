@@ -59,6 +59,7 @@ Consolidate a toolkit of essential resources for front-end developers.
 
 ## API
  - [reqres](https://reqres.in/)
+ - [rapidapi](https://rapidapi.com/hub)
 
 ## Design
 - [Checklist Design](https://www.checklist.design/)
