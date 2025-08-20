@@ -93,6 +93,7 @@ Consolidate a toolkit of essential resources for front-end developers.
 
 ## AI
 - [Galileo.ai](https://www.usegalileo.ai/explore/features/web)
+- [stitch](https://stitch.withgoogle.com/create)
 
 
 
