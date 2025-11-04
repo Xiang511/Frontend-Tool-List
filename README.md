@@ -57,6 +57,7 @@ Consolidate a toolkit of essential resources for front-end developers.
 - [Neobrutalism components](https://www.neobrutalism.dev/)
 - [ui.shadcn.com](https://ui.shadcn.com/docs/components/)
 - [silkhq](https://silkhq.com/)
+- [21st.dev](https://21st.dev/community/components)
 
 ## API
  - [reqres](https://reqres.in/)
