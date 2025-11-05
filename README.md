@@ -18,6 +18,7 @@ Consolidate a toolkit of essential resources for front-end developers.
 - [svgrepo](https://www.svgrepo.com/)
 - [skillicons](https://skillicons.dev/)
 - [svgl](https://svgl.app/)
+- [animateIcon](https://animateicons.vercel.app/)
   
 ## Page scrolling animation
 - [Paroller.js](https://tgomilar.github.io/paroller.js/)
