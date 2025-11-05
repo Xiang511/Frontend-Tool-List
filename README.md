@@ -19,6 +19,7 @@ Consolidate a toolkit of essential resources for front-end developers.
 - [skillicons](https://skillicons.dev/)
 - [svgl](https://svgl.app/)
 - [animateIcon](https://animateicons.vercel.app/)
+- [logosurf](https://www.logo.surf/)
   
 ## Page scrolling animation
 - [Paroller.js](https://tgomilar.github.io/paroller.js/)
