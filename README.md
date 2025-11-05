@@ -28,6 +28,7 @@ Consolidate a toolkit of essential resources for front-end developers.
 - [Barba.js](https://barba.js.org/)
 - [Scrollrevealjs](https://scrollrevealjs.org/)
 - [number-flow](https://number-flow.barvian.me/vue)
+- [lenis](https://lenis.darkroom.engineering/)
 
 ## HTML 
 - [every-html-element](https://iamwillwang.com/every-html-element/)
