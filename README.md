@@ -73,6 +73,7 @@ Consolidate a toolkit of essential resources for front-end developers.
 - [lottielab](https://www.lottielab.com/)
 - [footer.design](http://footer.design/)
 - [radix-ui-Create a custom palette](https://www.radix-ui.com/colors/custom)
+- [spacetypegenerator](https://spacetypegenerator.com/flash)
 
 ## Img assets
 - [unDraw](https://undraw.co/illustrations)
