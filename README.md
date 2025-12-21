@@ -20,6 +20,7 @@ Consolidate a toolkit of essential resources for front-end developers.
 - [svgl](https://svgl.app/)
 - [animateIcon](https://animateicons.vercel.app/)
 - [logosurf](https://www.logo.surf/)
+- [lucide-animated](https://lucide-animated.com/)
   
 ## Page scrolling animation
 - [Paroller.js](https://tgomilar.github.io/paroller.js/)
